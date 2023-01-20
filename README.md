@@ -10,6 +10,8 @@ This app presents a form that provides text fields for the the user to type in t
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
 
+<img src="app walkthrough.gif" width=200><br>
+
 ### Required Features
 
 - [x] 1. App displays an image of a school's logo
