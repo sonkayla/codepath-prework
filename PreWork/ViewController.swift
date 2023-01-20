@@ -38,7 +38,7 @@ class ViewController: UIViewController {
         let year = yearSegmentControl.titleForSegment(at: yearSegmentControl.selectedSegmentIndex)
             
         // Creating a constant of type string that holds an introduction. The introduction receives the values from the outlet connections.
-        let introduction = "Hello! My name is \(firstNameTextField.text!) \(lastNameTextField.text!) and I currently attend \(schoolNameTextField.text!) as a \(year!) year. I currently own \(numberOfPetsLabel.text!) pets. However, it is \(morePetsSwitch.isOn) that I would want more."
+        let introduction = "Hello! My name is \(firstNameTextField.text!) \(lastNameTextField.text!) and I currently attend \(schoolNameTextField.text!) as a \(year!) year. I currently own \(numberOfPetsLabel.text!) pet(s). However, it is \(morePetsSwitch.isOn) that I would want more."
         
         // Creates the alert where we pass in our message, which our introduction.
         let alertController = UIAlertController(title: "My Introduction", message: introduction, preferredStyle: .alert)
@@ -50,8 +50,9 @@ class ViewController: UIViewController {
         alertController.addAction(action)
                 
         present(alertController, animated: true, completion: nil)
-        
     }
+    
+    //@IBAction func changeBackgroundColor(
     
     
     

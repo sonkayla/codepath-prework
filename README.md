@@ -1,16 +1,14 @@
-## NAME_OF_YOUR_APP_HERE
+## Introduce Yourself
 
 ### App Description
 
-`TODO://` Add app description
+This app presents a form that provides text fields for the the user to type in their first name, last name, and school name. The form also makes the user select the what year they are currently in through a segment control. To build on, the user can provide the information of how many pets that they have by incrementing or decrementing the number through the stepper. The user can also turn on and off the switch which states if it is true of false that the user would want more pets. Once the user inputs all the information, they can click the introduce button to present an introduction of themselves as an alert.
 
 ### App Walk-though
 
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif). LICEcap is a great tool for recording and you can simply upload the gif to GitHub and provide the path name in place of URL as shown below.
 
 <!-- <img src="YOUR_GIF_URL_HERE" width=200><br> OR <img src="YOUR_GIF_PATH" width=200><br> -->
-
-`TODO://` In the Features section below, add an `x` between the `-[ ]` like this `- [x]` for any features you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required Features
 
