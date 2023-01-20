@@ -2,7 +2,7 @@
 
 ### App Description
 
-This app presents a form that provides text fields for the the user to type in their first name, last name, and school name. The form also makes the user select the what year they are currently in through a segment control. To build on, the user can provide the information of how many pets that they have by incrementing or decrementing the number through the stepper. The user can also turn on and off the switch which states if it is true of false that the user would want more pets. Once the user inputs all the information, they can click the introduce button to present an introduction of themselves as an alert.
+This app presents a form that provides text fields for the the user to type in their first name, last name, and school name. The form also makes the user select the year they are currently in through a segment control. To build on, the user can provide the information of how many pets that they have by incrementing or decrementing the number through the stepper. The user can also turn on and off the switch which states if it is true or false that the user would want more pets. Once the user inputs all the information, they can click the introduce button to present an introduction of themselves as an alert.
 
 ### App Walk-though
 
